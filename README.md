@@ -1,4 +1,4 @@
- DDoS examples of scripts
+# DDoS examples of scripts
 
 A high-performance, modular collection of network stress-testing scripts written in Go. This toolkit implements a wide variety of Layer 4 and Layer 7 attack vectors, featuring advanced evasion techniques and protocol-specific optimizations.
 
